@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1507568961 source:d:\codes\c\bank\src\profile.cpp
+	"Profile.h"
+	"Extras.h"
+
+1507026409 d:\codes\c\bank\include\profile.h
+	"header.h"
+	"StringManipulator.h"
+	"Database.h"
+
+1507026881 source:d:\codes\c\bank\src\transaction.cpp
+	"Transaction.h"
+	"Extras.h"
+
+1506504432 d:\codes\c\bank\include\transaction.h
+	"header.h"
+	"StringManipulator.h"
+	"Database.h"
+	"Profile.h"
+
+1507568318 source:d:\codes\c\bank\main.cpp
+	"header.h"
+	"Extras.h"
+
+1506502634 d:\codes\c\bank\include\header.h
+	<iostream>
+	<string>
+	<math.h>
+	<ctime>
+	<cstring>
+	<thread>
+	<windows.h>
+	<winsock2.h>
+	<vector>
+	<mysql.h>
+	<strstream>
+	<sstream>
+	<ctime>
+	<stdio.h>
+	<cstdarg>
+	<algorithm>
+
+1505560895 d:\codes\c\bank\include\defined.h
+
+1507566098 d:\codes\c\bank\include\database.h
+	"header.h"
+	"StringManipulator.h"
+
+1507569179 source:d:\codes\c\bank\src\database.cpp
+	"Database.h"
+
+1507202992 source:d:\codes\c\bank\src\stringmanipulator.cpp
+	"StringManipulator.h"
+
+1506022042 d:\codes\c\bank\include\stringmanipulator.h
+	"header.h"
+
+1506503435 d:\codes\c\bank\include\extras.h
+	"header.h"
+	"StringManipulator.h"
+	"Profile.h"
+	"Transaction.h"
+
+1507026944 source:d:\codes\c\bank\src\extras.cpp
+	"Extras.h"
+
